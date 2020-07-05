@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/AJONCODE/golangServerMisc/02_hittingExternalApi/route"
+	"github.com/AJONCODE/golang-server-basics/02_hittingExternalApi/route"
 )
 
 func main() {

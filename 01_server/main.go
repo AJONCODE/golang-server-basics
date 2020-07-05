@@ -1,6 +1,6 @@
 package main
 
-import "github.com/AJONCODE/golangServerMisc/01_server/server"
+import "github.com/AJONCODE/golang-server-basics/01_server/server"
 
 func main() {
 	server.Server()

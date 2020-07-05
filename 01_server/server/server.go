@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/AJONCODE/golangServerMisc/01_server/route"
+	"github.com/AJONCODE/golang-server-basics/01_server/route"
 )
 
 // Server with route
